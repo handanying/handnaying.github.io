@@ -1,0 +1,11 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Dapollo</title>
+<link>https://quanyuanhang.github.io/Dapollo/appcast</link>
+<description>qyh</description>
+<item>
+<title>2.1.07</title>
+<enclosure url="https://gw.alipayobjects.com/os/basement_prod/1e7bc373-ff53-4906-baf5-37ca56ff75d5.zip" sparkle:version="2.1.07" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
